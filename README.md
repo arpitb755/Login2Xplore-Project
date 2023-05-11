@@ -1,2 +1,2 @@
-Login2Xplore
+Student Enrollment Form
 Student Enrollment Form
